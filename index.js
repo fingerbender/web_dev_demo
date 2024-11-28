@@ -1,9 +1,10 @@
 
-/*const contactForm = document.forms("contactform");
-const c = contactForm.addEventListener('submit', validate);*/
+const contactForm = document.getElementById("contactform");
+contactForm.addEventListener('submit', validate);
     console.log("here");
-    
-function validate(event) {
+
+
+function validate(event){
     event.preventDefault();
 
     const feedbackBox = document.getAnimations("feedbackpanel");

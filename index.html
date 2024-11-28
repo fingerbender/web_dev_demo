@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="index.css"> 
+    <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
     <div id="mask"></div>
     <header>
@@ -26,47 +28,56 @@
         </h1>
     </header>
     <nav>
-        
+
     </nav>
     <main>
         <section>
-            <h2>proj 1</h2>
-            <img src="placeholder.png" alt="">
-            <p id="caption1"></p>
+            <a href="./page1/page1.html">
+                <h2>proj 1</h2>
+                <img src="placeholder.png" alt="">
+                <p id="caption1"></p>
+            </a>
         </section>
         </section>
         <section>
-            <h2>proj 2</h2>
-            <img src="placeholder.png" alt="">
-            <p id="caption2"></p>
+            <a href="">
+                <h2>proj 2</h2>
+                <img src="placeholder.png" alt="">
+                <p id="caption2"></p>
+            </a>
         </section>
         <section>
-            <h2>proj 3</h2>
-            <img src="placeholder.png" alt="">
-            <p id="caption3"></p>
+            <a href="">
+                <h2>proj 3</h2>
+                <img src="placeholder.png" alt="">
+                <p id="caption3"></p>
+            </a>
         </section>
         <section>
-            <h2>proj 4</h2>
-            <img src="placeholder.png" alt="">
-            <p id="caption4"></p>
+            <a href="">
+                <h2>proj 4</h2>
+                <img src="placeholder.png" alt="">
+                <p id="caption4"></p>
+            </a>
         </section>
     </main>
     <footer>
         <!-- <a href="page1.html">click this link</a> -->
-        <form id="contactform" onsubmit="return validate(e)">
+        <form id="contactform">
             <h3>Contact Me</h3>
             <label for="namebox">Full Name:</label>
-            <input type="text" id="namebox" placeholder="Joe Smith" > 
+            <input type="text" id="namebox" placeholder="Joe Smith" required>
             <label for="emailbox">Email:</label>
-            <input type="email" id="emailbox" placeholder="example@email.com" >
+            <input type="email" id="emailbox" placeholder="example@email.com" required>
             <label for="msgbox">Message:</label>
-            <textarea id="msgbox" placeholder="Hello..." ></textarea>
+            <textarea id="msgbox" placeholder="Hello..." required></textarea>
             <p id="feedbackpanel"></p>
-            <button type="submit" id="submitbtn" >Send</button>
+            <button type="submit" id="submitbtn">Send</button>
         </form>
         <p id="thankyoubox"></p>
         <p></p>
     </footer>
-    <script link="index.js"></script>
+    <script src="index.js"></script>
 </body>
+
 </html>

@@ -122,12 +122,24 @@ main{
     margin-right: 10vw;
     
 }
-section{
+section {
     padding: 30px;
     background-color: #1c304a;
     /*border: 5px dashed blue;*/
     border-radius: 20px;
     margin: 10px
+}
+a{
+    color: #b3efff;
+    text-decoration:none;
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+    text-shadow: 0px 0px 10px yellow;
+}
+img:hover{
+    box-shadow: 0px 0px 10px yellow;
 }
 img{
     width: 300px;
