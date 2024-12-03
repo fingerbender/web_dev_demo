@@ -159,6 +159,9 @@ form{
     width: 50vw;
     padding: 2%;
 }
+#feedbackpanel{
+    color: red;
+}
 form > button {
     color: #b3efff;
     background-color: #244166;

@@ -1,0 +1,12 @@
+table{
+    border-spacing: 20px;
+    background-color: #363b46;
+    border-radius: 20px;
+}
+table.scrollable{
+    width: 90% ;
+}
+td{
+    padding-left: 5px;
+    padding-right: 5px;
+}

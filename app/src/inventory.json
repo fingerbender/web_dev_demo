@@ -1,0 +1,158 @@
+[
+    {
+        "SKU": "00000001",
+        "name": "Apple",
+        "qty": 50,
+        "price": 1.99
+    },
+    {
+        "SKU": "00000002",
+        "name": "Beef",
+        "qty": 40,
+        "price": 9.99
+    },
+    {
+        "SKU": "00000003",
+        "name": "Cabbage",
+        "qty": 50,
+        "price": 1.99
+    },
+    {
+        "SKU": "00000004",
+        "name": "Dough, Pizza",
+        "qty": 30,
+        "price": 2.99
+    },
+    {
+        "SKU": "00000005",
+        "name": "Electric Toothbrush",
+        "qty": 10,
+        "price": 15.99
+    },
+    {
+        "SKU": "00000006",
+        "name": "Flour",
+        "qty": 10,
+        "price": 2.99
+    },
+    {
+        "SKU": "00000007",
+        "name": "Gelatin powder",
+        "qty": 10,
+        "price": 1.99
+    },
+    {
+        "SKU": "00000008",
+        "name": "Hand soap",
+        "qty": 10,
+        "price": 10.99
+    },
+    {
+        "SKU": "00000009",
+        "name": "Ice pack",
+        "qty": 10,
+        "price": 6.99
+    },
+    {
+        "SKU": "00000010",
+        "name": "Juice",
+        "qty": 5,
+        "price": 5.99
+    },
+    {
+        "SKU": "00000011",
+        "name": "Kimchi",
+        "qty": 5,
+        "price": 15.99
+    },
+    {
+        "SKU": "00000012",
+        "name": "Light bulb",
+        "qty": 5,
+        "price": 2.99
+    },
+    {
+        "SKU": "00000013",
+        "name": "Mushroom",
+        "qty": 10,
+        "price": 5.99
+    },
+    {
+        "SKU": "00000014",
+        "name": "Nam bread",
+        "qty": 5,
+        "price": 2.99
+    },
+    {
+        "SKU": "00000015",
+        "name": "Oxtail soup",
+        "qty": 5,
+        "price": 5.99
+    },
+    {
+        "SKU": "00000016",
+        "name": "Pork chop",
+        "qty": 10,
+        "price": 3.99
+    },
+    {
+        "SKU": "00000017",
+        "name": "Quail egg",
+        "qty": 5,
+        "price": 9.99
+    },
+    {
+        "SKU": "00000018",
+        "name": "Ramen pack",
+        "qty": 10,
+        "price": 7.99
+    },
+    {
+        "SKU": "00000019",
+        "name": "Salmon",
+        "qty": 10,
+        "price": 17.99
+    },
+    {
+        "SKU": "00000020",
+        "name": "Taco",
+        "qty": 10,
+        "price": 5.99
+    },
+    {
+        "SKU": "00000021",
+        "name": "Ube ice cream",
+        "qty": 5,
+        "price": 8.99
+    },
+    {
+        "SKU": "00000022",
+        "name": "Vanilla extract",
+        "qty": 5,
+        "price": 9.99
+    },
+    {
+        "SKU": "00000023",
+        "name": "Watermelon",
+        "qty": 30,
+        "price": 9.99
+    },
+    {
+        "SKU": "00000024",
+        "name": "XO sauce",
+        "qty": 5,
+        "price": 11.99
+    },
+    {
+        "SKU": "00000025",
+        "name": "Yam",
+        "qty": 30,
+        "price": 1.99
+    },
+    {
+        "SKU": "00000026",
+        "name": "Zucchini",
+        "qty": 10,
+        "price": 2.99
+    }
+]
